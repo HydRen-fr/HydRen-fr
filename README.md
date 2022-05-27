@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HydRen-fr
 - 👀 I’m interested in infosec, programmation, data science and everything about computer science basically...
 - 🌱 I’m currently learning lots of different things by mostly making projects
-- 📫 You can reach me by sending an e-mail at hbringuet@numericable.fr
+- 📫 Twitter: HydRen101 | Discord: Hydrel#4116 | E-mail: hbringuet@numericable.fr
