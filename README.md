@@ -1,5 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
+```python
 import random
 
 def early_morning_cat_solution(cat_name: str) -> str:
@@ -26,4 +27,4 @@ def early_morning_cat_solution(cat_name: str) -> str:
 
 message = early_morning_cat_solution("Kala")
 print(message)
-
+```
